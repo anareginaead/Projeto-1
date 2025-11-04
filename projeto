@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Instituto Esperança - Projetos</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Projetos Sociais</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="projetos.html">Projetos</a></li>
+        <li><a href="cadastro.html">Cadastro</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Projetos em andamento</h2>
+
+      <article>
+        <h3>Projeto Sementes do Amanhã</h3>
+        <img src="assets/img/projeto1.jpg" alt="Crianças estudando">
+        <p>Voltado à educação infantil, o projeto oferece reforço escolar e atividades culturais para crianças em situação de vulnerabilidade.</p>
+      </article>
+
+      <article>
+        <h3>Projeto Mãos Solidárias</h3>
+        <img src="assets/img/projeto2.jpg" alt="Voluntários entregando alimentos">
+        <p>Iniciativa de arrecadação e doação de alimentos e roupas a famílias carentes da região.</p>
+      </article>
+    </section>
+
+    <section>
+      <h2>Como ajudar</h2>
+      <p>Você pode ser voluntária ou realizar uma doação para apoiar nossos projetos. Clique no botão abaixo e preencha seu cadastro.</p>
+      <a class="botao" href="cadastro.html">Quero Participar</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Instituto Esperança. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
